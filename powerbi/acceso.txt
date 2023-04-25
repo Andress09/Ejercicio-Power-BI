@@ -1,0 +1,6 @@
+Servidor: renzoroca.database.windows.net
+BD: Ciclismo_RenzoRoca
+Usuario: practicas
+ContraseÃ±a: ProfesorRenzoRoca2023.
+
+Owner : https://www.flowcode.com/page/renzoroca
